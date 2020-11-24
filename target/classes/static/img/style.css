@@ -1,0 +1,16 @@
+/*Volkert Moreels r0784098*/
+body{
+    background-color: beige;
+}
+h1{
+    color: red;
+    text-align: center;
+    transition: 1s all linear;
+}
+h1:hover{
+    transform: scale(1.75);
+    color:orange;
+}
+p{
+    color: blue;
+}
